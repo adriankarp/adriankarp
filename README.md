@@ -1,4 +1,4 @@
-<h1> Hello <<img src= "https://cdn-icons.flaticon.com/png/512/1542/premium/1542976.png?token=exp=1639997052~hmac=1b512f9d31930e610519e7acfc5e863b" width="35" height= "35" alt= "world" /> />!  
+<h1> Hello <<img src= "https://cdn-icons.flaticon.com/png/512/1542/premium/1542976.png?token=exp=1639997052~hmac=1b512f9d31930e610519e7acfc5e863b" width="30" height= "30" alt= "world" /> />!  
   
   
 <h2> About Me </h2>
