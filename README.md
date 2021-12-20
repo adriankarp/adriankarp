@@ -1,4 +1,4 @@
-<h1> Hello < World/ >!
+<h1> Hello <World/ >!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adriankarp.adriankarp)
 
@@ -7,8 +7,6 @@
 </div>
 
 <h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently working as an Application Developer @ IBM
