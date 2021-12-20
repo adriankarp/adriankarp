@@ -1,10 +1,6 @@
-<h1> Hello <World />!
+<h1> Hello < World />!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adriankarp.adriankarp)
-
-</p>
-<div size='20px'> Hi! My name is Adrian Karp.
-</div>
 
 <h2> About Me </h2>
 
