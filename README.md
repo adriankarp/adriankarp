@@ -1,7 +1,4 @@
-<h1> Hello < World />!
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adriankarp.adriankarp)
-  
+<h1> Hello < <img src= "https://cdn-icons.flaticon.com/png/512/587/premium/587874.png?token=exp=1639997052~hmac=6e70ed148109cdf310f9704040beb9d8" width="40" height= "40" alt= "world" /> />!  
   
   
 <h2> About Me </h2>
