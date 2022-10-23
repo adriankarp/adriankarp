@@ -1,4 +1,6 @@
-- see [playground](https://github.com/adriankarp/playground) to check my latest work
+<div id="header" align="center">
+see [playground](https://github.com/adriankarp/playground) to check my latest work
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adriankarp&theme=dark&background=000000)](https://git.io/streak-stats)
 
