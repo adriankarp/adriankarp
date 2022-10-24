@@ -1,6 +1,15 @@
-<div id="header" align="center">
- 👨‍💻see <a href="https://github.com/adriankarp/playground" target="_blank">playground</a> for my latest work👨‍💻
-</div>
+
+# Hi, I'm Adrian! 👋
+
+
+## 🚀 About Me
+I'm a JavaScript full stack developer
+
+Currently working as Application Developer @ IBM
+
+👩‍💻 Check [playground](https://github.com/adriankarp/playground) to see my latest work
+
+📫 You can reach me at karp.adrian@protonmail.com
 
 ------------------------------
 
