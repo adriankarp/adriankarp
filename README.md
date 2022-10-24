@@ -3,9 +3,9 @@
 
 
 ## 🚀 About Me
-I'm a JavaScript full stack developer
+💻 I'm a JavaScript full stack developer
 
-Currently working as Application Developer @ IBM
+🔨 Currently working as Application Developer @ IBM
 
 👩‍💻 Check [playground](https://github.com/adriankarp/playground) to see my latest work
 
