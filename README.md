@@ -7,7 +7,7 @@
 
 🔨 Currently working as Application Developer @ IBM
 
-👩‍💻 Check my [repositories](https://github.com/adriankarp?tab=repositories) to see my latest work
+👩‍💻 Check [repositories](https://github.com/adriankarp?tab=repositories) to see my latest work
 
 📫 You can reach me at karp.adrian@protonmail.com
 
