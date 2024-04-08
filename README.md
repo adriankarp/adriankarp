@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-💻 I'm a JavaScript full stack developer
+💻 I'm a JavaScript application developer
 
 🔨 Currently working as Application Developer @ IBM
 
